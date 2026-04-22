@@ -39,8 +39,7 @@
 ### 🤝🏻 &nbsp;Contacta conmigo
 
 <p align="center">
-<a href="mailto:alvarez.jos3.es@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/alvarezjos3/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/alvarez_jos3/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
