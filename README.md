@@ -10,6 +10,9 @@
   <a href="https://www.instagram.com/alvarez_jos3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <a href="https://x.com/alvar3z_jos3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
