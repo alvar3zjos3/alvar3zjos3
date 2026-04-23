@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/alvarez_jos3/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://x.com/alvar3zjos3" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
 </div>
 
 <br>
