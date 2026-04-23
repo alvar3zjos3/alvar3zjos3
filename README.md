@@ -190,8 +190,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/OpenSSH-231F20?style=for-the-badge&logo=openssh&logoColor=white" alt="OpenSSH" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PuTTY-0000FF?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
