@@ -333,8 +333,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alvar3zjos3/alvar3zjos3/output/snake.svg" alt="Snake animation" />
-
-###
