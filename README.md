@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Jose%20Alvarez&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Programador&descSize=20&descAlign=50&descAlignY=85&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Jose%20Alvarez&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Desarrollador%20en%20formaci%C3%B3n%20%7C%20Web,%20Backend,%20Bases%20de%20Datos,%20Linux,%20Automatizaci%C3%B3n%20y%20Multimedia&descSize=13&descAlign=50&descAlignY=85&textBg=false&theme=cobalt"  />
 </div>
 
 ###
