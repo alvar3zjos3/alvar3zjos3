@@ -67,10 +67,6 @@
   <!-- Multimedia & Tools -->
   <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" /></code>
   <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" /></code>
-  <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" /></code>
-  <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" /></code>
-  <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" /></code>
-  <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Illustrator" /></code>
   <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="Premiere Pro" /></code>
   <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" title="After Effects" /></code>
   <code><img height="35" src="https://cdn.simpleicons.org/davinciresolve/233A51" title="DaVinci Resolve" /></code>
