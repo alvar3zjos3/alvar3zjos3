@@ -79,8 +79,8 @@
 <h3 align="left">📈 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://stats.alvarezjose.me/api?username=alvar3zjos3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://stats.alvarezjose.me/api/top-langs?username=alvar3zjos3&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://dev-readme-stats.vercel.app/api?username=alvar3zjos3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://dev-readme-stats.vercel.app/api/top-langs?username=alvar3zjos3&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=alvar3zjos3&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
