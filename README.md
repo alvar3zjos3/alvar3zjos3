@@ -80,7 +80,7 @@
 
 <div align="center">
   <img src="https://dev-readme-stats.vercel.app/api?username=alvar3zjos3&hide=issues&theme=tokyonight&order=1" height="150" alt="stats graph"  />
-  <img src="https://dev-readme-stats.vercel.app/api/top-langs?username=alvar3zjos3&theme=tokyonight&&order=2" height="150" alt="languages graph"  />
+  <img src="https://dev-readme-stats.vercel.app/api/top-langs?username=alvar3zjos3&card_width=320&theme=tokyonight&&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=alvar3zjos3&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
