@@ -91,7 +91,7 @@
       </td>
       <td style="border: 0;">
           <img
-            src="https://dev-readme-stats.vercel.app/api/top-langs/?username=alvar3zjos3&hide_border=true&size_weight=0.5&count_weight=0.5&theme=white#gh-light-mode-only"
+            src="https://dev-readme-stats.vercel.app/api/top-langs/?username=alvar3zjos3&hide_border=true&theme=white#gh-light-mode-only"
             alt="Mis lenguajes"
             width="280"
           />
@@ -113,7 +113,7 @@
       </td>
       <td style="border: 0;">
         <img
-          src="https://dev-readme-stats.vercel.app/api/top-langs/?username=alvar3zjos3&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
+          src="https://dev-readme-stats.vercel.app/api/top-langs/?username=alvar3zjos3&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true#gh-dark-mode-only"
           alt="Mis lenguajes"
           width="280"
         />
