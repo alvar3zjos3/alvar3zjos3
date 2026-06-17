@@ -78,10 +78,89 @@
 
 <h3 align="left">📈 GitHub Analytics</h3>
 
+<!-- Estadisticas y lenguajes (Tema Blanco) -->
+<a href="https://github.com/alvar3zjos3#gh-light-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+          <img
+            src="https://dev-readme-stats.vercel.app/api?username=alvar3zjos3&hide=issues&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&theme=white#gh-light-mode-only"
+            alt="Mi estadisticas"
+            height="370"
+          />
+      </td>
+      <td style="border: 0;">
+          <img
+            src="https://dev-readme-stats.vercel.app/api/top-langs/?username=alvar3zjos3&hide_border=true&size_weight=0.5&count_weight=0.5&theme=white#gh-light-mode-only"
+            alt="Mis lenguajes"
+            width="280"
+          />
+      </td>
+    </tr>
+  </table>
+</a>
+
+<!-- Estadisticas y lenguajes (Tema Negro) -->
+<a href="https://github.com/alvar3zjos3#gh-dark-mode-only">
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td style="border: 0;">
+        <img
+          src="https://dev-readme-stats.vercel.app/api?username=alvar3zjos3&hide=issues&hide_border=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&number_format=long&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+          alt="Mi estadisticas"
+          height="370"
+        />
+      </td>
+      <td style="border: 0;">
+        <img
+          src="https://dev-readme-stats.vercel.app/api/top-langs/?username=alvar3zjos3&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
+          alt="Mis lenguajes"
+          width="280"
+        />
+      </td>
+    </tr>
+  </table>
+</a>
+
+<!-- Estadisticas de racha (Tema Blanco) -->
 <div align="center">
-  <img src="https://dev-readme-stats.vercel.app/api?username=alvar3zjos3&hide=issues&theme=tokyonight&order=1" height="150" alt="stats graph"  />
-  <img src="https://dev-readme-stats.vercel.app/api/top-langs?username=alvar3zjos3&card_width=320&theme=tokyonight&&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=alvar3zjos3&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://github.com/alvar3zjos3#gh-light-mode-only">
+    <img
+       src="https://streak-stats.demolab.com?user=alvar3zjos3&locale=es&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
+       alt="Mi estadisticas de racha"
+     />
+  </a>
+</div>
+
+
+<!-- Estadisticas de racha (Tema negro) -->
+<div align="center">
+  <a href="https://github.com/alvar3zjos3#gh-dark-mode-only">
+    <img
+       src="https://streak-stats.demolab.com?user=alvar3zjos3&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=es&type=svg&hide_border=true"
+       alt="Mi estadisticas de racha"
+     />
+  </a>
+</div>
+
+<!-- Wakatime (Tema Blanco) -->
+<div align="center">
+  <a href="https://github.com/alvar3zjos3#gh-light-mode-only">
+    <img
+        src="https://dev-readme-stats.vercel.app/api/wakatime?username=alvar3zjos3&layout=compact&hide_border=true&theme=white"
+        alt="Mi estadisticas de Wakatime"
+      />
+  </a>
+</div>
+
+<!-- Wakatime (Modo Negro) -->
+<div align="center">
+  <a href="https://github.com/alvar3zjos3#gh-dark-mode-only">
+    <img
+        src="https://dev-readme-stats.vercel.app/api/wakatime?username=alvar3zjos3&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true"
+        alt="Mi estadisticas de Wakatime"
+      />
+  </a>
 </div>
 
 <br>
